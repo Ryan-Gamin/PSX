@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://ibb.co/r6rDvdR" width="250">
+    <img src="https://i.ibb.co/pzFYnhB/Plot-Squared.png" width="250">
 </p>
 
 ---
