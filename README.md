@@ -15,7 +15,9 @@ flags. Such as: weather, time, game modes, pvp status.
 
 Whilst we provide a whole load of unique features, the biggest focus
 is to provide a lag-free and smooth experience.
-## PLOTSQUARED V5 COMPILED FREE
+## This plugin is
+# OPEN SOURCE
+### Which means I spent some time (6 hours) compiling PlotSquared. Add me as a friend on discord by clicking [here](discord.gg/CsW2QQr3)
 
 
 <p align="center">
